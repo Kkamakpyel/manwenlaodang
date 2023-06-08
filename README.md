@@ -31,7 +31,7 @@
 - Corpus Linguistics, Grammar
 - Professor, Dept. of Korean Language and Literature, Mokpo National University
 
-### Choi, Woono
+### Choi, Woonho
 - Ph. D. in Linguistics (Dept. of Linguistics, Seoul National University)
 - Computational Linguistics, Corpus Linguistics
 - Professor, Dept. of Korean Language and Literature, Mokpo National University
