@@ -17,6 +17,16 @@
 - 전산언어학, 코퍼스언어학
 - 국립목포대학교 국어국문학과 교수
 
+#### manwenlaodang_ma_v_0001_02_20231002.zip
+- 복합어 추가 및 어휘 사전 태그 변경을 반영
+- 다음 6개 표현을 복합어 사전에 추가하여 복합어로 처리
+  -  tung pan
+  -  tung gu
+  -  tung lu
+  -  hvwang dan
+  -  teng hvwang
+  -  xi hvwang
+-  tung을   nv::nv에서 nv::prpn으로 변경
 
 ---
 2023.04.24.
